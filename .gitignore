@@ -1,0 +1,4 @@
+
+requirements/
+*.pyc
+__pycache__
